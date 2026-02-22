@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aditya+Srivastava+👋;AI%2FML+Enthusiast+🤖" alt="Typing SVG" />
+</div>
 
 <!--
 **adityasrivastava1005/adityasrivastava1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
